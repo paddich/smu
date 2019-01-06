@@ -1,0 +1,9 @@
+$ cat .gitignore
+
+*.log
+*.pot
+*.pyc
+__pycache__/
+smu76engine/settings.py
+.env
+db.sqlite3
