@@ -1,0 +1,46 @@
+.nav_panel {
+    position: absolute;
+    left: 220px;
+    top: 150px;
+}
+
+.brand_panel {
+    position: relative;
+    left: 50px;
+    top: -50px;
+}
+
+.brand_panel a {
+    margin: 0px 50px;
+}
+
+.side_panel {
+    position: fixed;
+    top: 206px;
+    border: 2px #999;
+    padding: 7px;
+    background: #DDD0D8;
+}
+
+.side_panel a {
+    display: block;
+    margin: 5px 0;
+
+}
+
+
+.bot_panel {
+    padding: 10px;
+    position: static;
+}
+
+.content {
+    padding-left: 182px;
+    margin: auto;
+}
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
